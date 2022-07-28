@@ -12770,6 +12770,7 @@
 /obj/item/seeds/cannabis,
 /obj/item/seeds/punga,
 /obj/item/seeds/tomato,
+/obj/item/seeds/onion,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/building)
 "iKp" = (
